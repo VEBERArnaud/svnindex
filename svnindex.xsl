@@ -56,7 +56,7 @@
             <div class="navbar-header">
               <a class="navbar-brand" href="#">
                 <span class="fa fa-fw fa-code-fork"></span>
-                SVN LAABS
+                YOUR SUBVERSION SERVER NAME HERE
               </a>
             </div>
 
